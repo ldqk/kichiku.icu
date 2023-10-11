@@ -2,6 +2,10 @@
 ![图标来源：996ICU](https://avatars2.githubusercontent.com/u/48942249)  
 本项目收集哔哩哔哩鬼畜+哲♂学视频。  
 您可以为我们提供更多资源（包括**更高码率的同名资源**）。在画质相同的情况下， 以 **MP4 格式**优先。  
+# 由于GitHub仓库过大被官方警告，现已将所有视频资源转移至网盘进行分享，大家可以到网盘进行下载
+https://masuit-my.sharepoint.com/:f:/g/personal/admin_masuit_onmicrosoft_com/EjcBHLsfG_hMh5gGIlh0FAwBXHKzbC-Dhw6Dgynxiu0jeQ?e=abTM9Y
+![image](https://github.com/ldqk/kichiku.icu/assets/20254980/9ffe3617-67e3-4b60-9850-ac76077130ae)
+
 ## 如何提交
 1. 新建一个ISSUE。
 2. 粘贴视频名称 + 码率(720P/1080P) + (百度/微云/WeTransfer/不限) 链接。若有解压密码，请附带解压密码。
